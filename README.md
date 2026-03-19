@@ -1,16 +1,35 @@
-# React + Vite
+# React Stopwatch App ⏱️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple stopwatch app that I built using React and Tailwind CSS while learning frontend development.
 
-Currently, two official plugins are available:
+The idea was to create something practical where I could use concepts like state, refs, and event handling in a real project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* Start, Pause and Reset timer
+* Lap functionality
+* Delete any lap
+* Clean and responsive UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Used
 
-## Expanding the ESLint configuration
+* React
+* Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💡 What I Learned
+
+While building this project, I got better understanding of:
+
+* useState and useRef
+* Handling intervals in React
+* Working with arrays (map, filter)
+* Basic responsive design using Tailwind
+
+## ▶️ How to Run
+
+1. Clone the repo
+2. Run `npm install`
+3. Run `npm run dev`
+
+
+Thanks for checking it out 🙂
