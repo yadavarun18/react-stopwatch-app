@@ -8,7 +8,6 @@ The idea was to create something practical where I could use concepts like state
 
 * Start, Pause and Reset timer
 * Lap functionality
-* Delete any lap
 * Clean and responsive UI
 
 ## 🛠️ Tech Used
@@ -22,7 +21,6 @@ While building this project, I got better understanding of:
 
 * useState and useRef
 * Handling intervals in React
-* Working with arrays (map, filter)
 * Basic responsive design using Tailwind
 
 ## ▶️ How to Run
